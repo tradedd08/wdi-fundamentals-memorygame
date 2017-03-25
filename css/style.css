@@ -54,7 +54,15 @@ nav a:hover {
 	background: #d5f613;
 }
 
+img  {
+    width: 150px;
+    height: 200px;
+}
 
+.logo {
+
+    height: 50px;
+}
 
 
 /* ////////////*/
